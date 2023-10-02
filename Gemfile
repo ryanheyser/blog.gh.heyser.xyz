@@ -50,3 +50,5 @@ gem "kramdown", "~> 2.3.2"
 gem "kramdown-parser-gfm", "~> 1.1"
 
 gem "coderay"
+
+gem "liquid", "~> 4.0.4"
