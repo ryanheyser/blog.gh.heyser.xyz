@@ -39,8 +39,6 @@ gem "webrick", "~> 1.8"
 
 gem "kramdown-syntax-coderay", "~> 1.0"
 
-gem "just-the-docs", "~> 0.6.2"
-
 gem "jekyll-remote-theme"
 
 gem "jemoji", "~> 0.12.0"
