@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
+layout: archive-taxonomy
 title: Tags
 type: tags
 ---
