@@ -42,13 +42,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - name: Bundle Install
-        run: |
-          gem install bundler
-          gem update bundler
-          bundle install --without development --jobs 4 --retry 3
-        env:
-          JEKYLL_ENV: production
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
