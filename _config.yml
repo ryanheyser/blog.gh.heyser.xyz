@@ -23,7 +23,7 @@ email: ryan@heyser.xyz
 description: >-
   A commentary on DevOps in the workplace and homelab.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://blog.gh.heyser.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ryanheyser.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "ryanheyser/blog.gh.heyser.xyz"
 twitter_username: rumblpak
 github_username: rheyser
