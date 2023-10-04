@@ -140,9 +140,6 @@ author:
   location: "Atlanta, GA"
   email: ryan@heyser.xyz
   links:
-    - label: "Blog"
-      icon: "fas fa-fw fa-link"
-      url: "https://blog.gh.heyser.xyz"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rumblpak"
