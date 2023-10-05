@@ -88,6 +88,13 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Conversion
+markdown: kramdown
+highlighter: coderay
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # kramdown
 kramdown:
   input: GFM
@@ -98,6 +105,13 @@ kramdown:
     line_numbers: table
     tab_width: 2
     wrap: 120
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: true
 
 # Collections
 collections:
@@ -183,7 +197,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: true
@@ -194,7 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: true
@@ -205,7 +219,7 @@ defaults:
     values:
       layout: single
       read_time: false
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
       sidebar:
