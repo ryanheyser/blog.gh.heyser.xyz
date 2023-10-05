@@ -5,7 +5,7 @@ excerpt: "doc"
 toc: true
 author_profile: true
 docs:
-  title: Test
+  - title: Test
     children:
       - title: "Test Child"
         url: /docs/init/
