@@ -35,7 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # Github Pages
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
 
 gem "kramdown-syntax-coderay", "~> 1.0"
 
