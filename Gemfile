@@ -43,7 +43,7 @@ gem "jekyll-remote-theme"
 
 gem "jemoji", "~> 0.13.0"
 
-gem "kramdown", "~> 2.4.0"
+gem "kramdown", "~> 2.5.0"
 
 gem "kramdown-parser-gfm", "~> 1.1"
 
