@@ -49,6 +49,6 @@ gem "kramdown-parser-gfm", "~> 1.1"
 
 gem "coderay"
 
-gem "liquid", "~> 4.0.4"
+gem "liquid", "~> 5.8.0"
 
 gem "jekyll-include-cache", group: :jekyll_plugins
