@@ -22,12 +22,12 @@ author:
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#giscus-comments
 comments:
   giscus:
-    category_name:
-    category_id:
+    category_name: "Blog"
+    category_id: "DIC_kwDOKbHSxs4Cskpp"
     discussion_term: "og:title"
     reactions_enabled: "1"
-    repo_id:
-    theme: light
+    repo_id: R_kgDOKbHSxg
+    theme: dark
   provider: giscus
 
 copyright: John Doe # FIXME Replace with your name or anything that makes sense. This will appear in the blog footer.
