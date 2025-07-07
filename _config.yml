@@ -30,7 +30,7 @@ comments:
     theme: dark
   provider: giscus
 
-copyright: John Doe # FIXME Replace with your name or anything that makes sense. This will appear in the blog footer.
+copyright: Ryan Heyser
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#front-matter-defaults
 defaults:
@@ -90,4 +90,4 @@ tag_archive:
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-title
 title: Ryan Heyser
 
-url: "https://ryanheyser.github.io"
+url: "https://blog.gh.heyser.xyz"
