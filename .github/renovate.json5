@@ -32,4 +32,5 @@
       '/(^|/)action.ya?ml$/',
     ],
   },
+  'bundler': {}
 }
