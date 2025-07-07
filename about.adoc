@@ -1,4 +1,11 @@
 :page-classes: wide
 :page-layout: single
 
-Write something about yourself here!
+Currently, I'm a dad first and engineer second. 
+I enjoy tinkering with any and all things technology. 
+I operate my homelab for my own educational purposes and try to
+share my progress and knowledge (and mistakes) with everyone.
+
+Professionally, I am a Staff Systems Engineer at The Home Depot.
+The content of this blog is my own opinion and in no way reflects
+the branding of my employer. All content herein is my own. 
