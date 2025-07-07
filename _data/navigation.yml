@@ -2,8 +2,8 @@ main:
   - title: Home
     url: /
   - title: About
-    url: /about/
-  - title: Tags
-    url: /tags/
+    url: /about
+  - title: tags
+    url: /tags
   - title: Documentation
-    url: /docs/
+    url: /docs
