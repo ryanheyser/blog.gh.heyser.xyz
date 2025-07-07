@@ -1,0 +1,7 @@
+---
+author_profile: true
+classes: wide
+layout: tags
+permalink: /docs/
+title: "Documentation"
+---
