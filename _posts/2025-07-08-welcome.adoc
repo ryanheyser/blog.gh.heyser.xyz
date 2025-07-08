@@ -1,0 +1,20 @@
+= First post
+:imagesdir: /assets/images/posts/2025-07-08-welcome
+:page-excerpt: This is the very first post of this blog!
+:revdate: 2025-07-08
+:page-published: true
+
+[.lead]
+Welcome! 
+
+image:output-1.jpg[Welcome!]
+
+
+The plan for this blog is to discuss the technologies used in my homelab.
+In no particular order I plan to create content on the following:
+* kubernetes
+** rke2
+* ansible
+* terraform
+* gitops
+** fluxcd
