@@ -1,7 +1,7 @@
 :page-classes: wide
 :page-layout: single
 
-Currently, I'm a dad first and engineer second. 
+I'm a dad first and engineer second. 
 I enjoy tinkering with any and all things technology. 
 I operate my homelab for my own educational purposes and try to
 share my progress and knowledge (and mistakes) with everyone.
