@@ -9,9 +9,9 @@ Welcome!
 
 image:output-1.jpg[Welcome!]
 
-
 The plan for this blog is to discuss the technologies used in my homelab.
 In no particular order I plan to create content on the following:
+
 * kubernetes
 ** rke2
 * ansible
