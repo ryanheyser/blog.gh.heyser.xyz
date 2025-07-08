@@ -1,6 +1,6 @@
-= First post
+= Welcome
 :imagesdir: /assets/images/posts/2025-07-08-welcome
-:page-excerpt: This is the very first post of this blog!
+:page-excerpt: Welcome!
 :revdate: 2025-07-08
 :page-published: true
 
